@@ -1,0 +1,4930 @@
+{
+    "nodes": [
+        {
+            "id": "rye",
+            "group": 1
+        },
+        {
+            "id": "chickpea",
+            "group": 1
+        },
+        {
+            "id": "black_bean",
+            "group": 1
+        },
+        {
+            "id": "bacon",
+            "group": 1
+        },
+        {
+            "id": "guava",
+            "group": 1
+        },
+        {
+            "id": "almond_butter",
+            "group": 1
+        },
+        {
+            "id": "capsicum",
+            "group": 1
+        },
+        {
+            "id": "ice_cream",
+            "group": 1
+        },
+        {
+            "id": "peanut",
+            "group": 1
+        },
+        {
+            "id": "sweet_corn",
+            "group": 1
+        },
+        {
+            "id": "fruit",
+            "group": 1
+        },
+        {
+            "id": "basil",
+            "group": 1
+        },
+        {
+            "id": "masala",
+            "group": 1
+        },
+        {
+            "id": "sea_salt",
+            "group": 1
+        },
+        {
+            "id": "mochi",
+            "group": 1
+        },
+        {
+            "id": "soybean",
+            "group": 1
+        },
+        {
+            "id": "cardamom",
+            "group": 1
+        },
+        {
+            "id": "banana",
+            "group": 1
+        },
+        {
+            "id": "honey",
+            "group": 1
+        },
+        {
+            "id": "fish",
+            "group": 1
+        },
+        {
+            "id": "satay",
+            "group": 1
+        },
+        {
+            "id": "semolina",
+            "group": 1
+        },
+        {
+            "id": "cream_cheese",
+            "group": 1
+        },
+        {
+            "id": "chicken_wing",
+            "group": 1
+        },
+        {
+            "id": "butter",
+            "group": 1
+        },
+        {
+            "id": "spinach",
+            "group": 1
+        },
+        {
+            "id": "green_tea",
+            "group": 1
+        },
+        {
+            "id": "malt",
+            "group": 1
+        },
+        {
+            "id": "salsa",
+            "group": 1
+        },
+        {
+            "id": "ancient_grain",
+            "group": 1
+        },
+        {
+            "id": "pumpkin_seeds",
+            "group": 1
+        },
+        {
+            "id": "white_cheddar",
+            "group": 1
+        },
+        {
+            "id": "nachos",
+            "group": 1
+        },
+        {
+            "id": "black_sesame",
+            "group": 1
+        },
+        {
+            "id": "rose",
+            "group": 1
+        },
+        {
+            "id": "broccoli",
+            "group": 1
+        },
+        {
+            "id": "zucchini",
+            "group": 1
+        },
+        {
+            "id": "mushroom",
+            "group": 1
+        },
+        {
+            "id": "bone_marrow",
+            "group": 1
+        },
+        {
+            "id": "sesame_seed",
+            "group": 1
+        },
+        {
+            "id": "taco",
+            "group": 1
+        },
+        {
+            "id": "marshmallow",
+            "group": 1
+        },
+        {
+            "id": "corn",
+            "group": 1
+        },
+        {
+            "id": "cajun",
+            "group": 1
+        },
+        {
+            "id": "lentils",
+            "group": 1
+        },
+        {
+            "id": "onion",
+            "group": 1
+        },
+        {
+            "id": "wasabi",
+            "group": 1
+        },
+        {
+            "id": "cherry",
+            "group": 1
+        },
+        {
+            "id": "curry",
+            "group": 1
+        },
+        {
+            "id": "cucumber",
+            "group": 1
+        },
+        {
+            "id": "roasted",
+            "group": 1
+        },
+        {
+            "id": "milk",
+            "group": 1
+        },
+        {
+            "id": "scallion",
+            "group": 1
+        },
+        {
+            "id": "truffle",
+            "group": 1
+        },
+        {
+            "id": "peanut_butter",
+            "group": 1
+        },
+        {
+            "id": "peas",
+            "group": 1
+        },
+        {
+            "id": "mayonnaise",
+            "group": 1
+        },
+        {
+            "id": "cheese",
+            "group": 1
+        },
+        {
+            "id": "lemon_pepper",
+            "group": 1
+        },
+        {
+            "id": "crayfish",
+            "group": 1
+        },
+        {
+            "id": "watercress",
+            "group": 1
+        },
+        {
+            "id": "herbs",
+            "group": 1
+        },
+        {
+            "id": "cloves",
+            "group": 1
+        },
+        {
+            "id": "lime",
+            "group": 1
+        },
+        {
+            "id": "beans",
+            "group": 1
+        },
+        {
+            "id": "red_rice",
+            "group": 1
+        },
+        {
+            "id": "wheat_flour",
+            "group": 1
+        },
+        {
+            "id": "spicy",
+            "group": 1
+        },
+        {
+            "id": "hollandaise",
+            "group": 1
+        },
+        {
+            "id": "smoke",
+            "group": 1
+        },
+        {
+            "id": "avocado",
+            "group": 1
+        },
+        {
+            "id": "chocolate",
+            "group": 1
+        },
+        {
+            "id": "olive",
+            "group": 1
+        },
+        {
+            "id": "plantain",
+            "group": 1
+        },
+        {
+            "id": "rice",
+            "group": 1
+        },
+        {
+            "id": "coconut_milk",
+            "group": 1
+        },
+        {
+            "id": "tahini",
+            "group": 1
+        },
+        {
+            "id": "olive_oil",
+            "group": 1
+        },
+        {
+            "id": "pumpkin",
+            "group": 1
+        },
+        {
+            "id": "black_pepper",
+            "group": 1
+        },
+        {
+            "id": "cinnamon",
+            "group": 1
+        },
+        {
+            "id": "tomato",
+            "group": 1
+        },
+        {
+            "id": "tortilla",
+            "group": 1
+        },
+        {
+            "id": "jalapeno",
+            "group": 1
+        },
+        {
+            "id": "ube",
+            "group": 1
+        },
+        {
+            "id": "almond",
+            "group": 1
+        },
+        {
+            "id": "seafood",
+            "group": 1
+        },
+        {
+            "id": "pico_de_gallo",
+            "group": 1
+        },
+        {
+            "id": "graham",
+            "group": 1
+        },
+        {
+            "id": "kale",
+            "group": 1
+        },
+        {
+            "id": "belacan",
+            "group": 1
+        },
+        {
+            "id": "dry_fruit",
+            "group": 1
+        },
+        {
+            "id": "cream",
+            "group": 1
+        },
+        {
+            "id": "crab",
+            "group": 1
+        },
+        {
+            "id": "vegetable",
+            "group": 1
+        },
+        {
+            "id": "miso",
+            "group": 1
+        },
+        {
+            "id": "salted",
+            "group": 1
+        },
+        {
+            "id": "mango",
+            "group": 1
+        },
+        {
+            "id": "soy_sauce",
+            "group": 1
+        },
+        {
+            "id": "cereal",
+            "group": 1
+        },
+        {
+            "id": "granola",
+            "group": 1
+        },
+        {
+            "id": "lamb_meat",
+            "group": 1
+        },
+        {
+            "id": "buckwheat",
+            "group": 1
+        },
+        {
+            "id": "aioli",
+            "group": 1
+        },
+        {
+            "id": "strawberry",
+            "group": 1
+        },
+        {
+            "id": "beef",
+            "group": 1
+        },
+        {
+            "id": "red_velvet",
+            "group": 1
+        },
+        {
+            "id": "chicken",
+            "group": 1
+        },
+        {
+            "id": "potato",
+            "group": 1
+        },
+        {
+            "id": "pineapple",
+            "group": 1
+        },
+        {
+            "id": "sour_cream",
+            "group": 1
+        },
+        {
+            "id": "basmati_rice",
+            "group": 1
+        },
+        {
+            "id": "guacamole",
+            "group": 1
+        },
+        {
+            "id": "sambal",
+            "group": 1
+        },
+        {
+            "id": "truffle_mushroom",
+            "group": 1
+        },
+        {
+            "id": "chia_seeds",
+            "group": 1
+        },
+        {
+            "id": "wheat",
+            "group": 1
+        },
+        {
+            "id": "jasmine_rice",
+            "group": 1
+        },
+        {
+            "id": "grape",
+            "group": 1
+        },
+        {
+            "id": "coffee",
+            "group": 1
+        },
+        {
+            "id": "ginger",
+            "group": 1
+        },
+        {
+            "id": "red_bell_pepper",
+            "group": 1
+        },
+        {
+            "id": "pork",
+            "group": 1
+        },
+        {
+            "id": "white_rice",
+            "group": 1
+        },
+        {
+            "id": "clam",
+            "group": 1
+        },
+        {
+            "id": "s'more",
+            "group": 1
+        },
+        {
+            "id": "cheddar_cheese",
+            "group": 1
+        },
+        {
+            "id": "vanilla",
+            "group": 1
+        },
+        {
+            "id": "ham",
+            "group": 1
+        },
+        {
+            "id": "tofu",
+            "group": 1
+        },
+        {
+            "id": "pear",
+            "group": 1
+        },
+        {
+            "id": "barley",
+            "group": 1
+        },
+        {
+            "id": "ranch",
+            "group": 1
+        },
+        {
+            "id": "passionfruit",
+            "group": 1
+        },
+        {
+            "id": "oat",
+            "group": 1
+        },
+        {
+            "id": "taro",
+            "group": 1
+        },
+        {
+            "id": "coconut",
+            "group": 1
+        },
+        {
+            "id": "barbecue",
+            "group": 1
+        },
+        {
+            "id": "lemon",
+            "group": 1
+        },
+        {
+            "id": "asparagus",
+            "group": 1
+        },
+        {
+            "id": "oats",
+            "group": 1
+        },
+        {
+            "id": "popcorn",
+            "group": 1
+        },
+        {
+            "id": "garlic",
+            "group": 1
+        },
+        {
+            "id": "buffalo_sauce",
+            "group": 1
+        },
+        {
+            "id": "salmon",
+            "group": 1
+        },
+        {
+            "id": "egg",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "cream",
+            "target": "ice_cream",
+            "value": 4
+        },
+        {
+            "source": "cream",
+            "target": "green_tea",
+            "value": 1
+        },
+        {
+            "source": "cream",
+            "target": "mochi",
+            "value": 2
+        },
+        {
+            "source": "cream",
+            "target": "fruit",
+            "value": 2
+        },
+        {
+            "source": "cream",
+            "target": "mango",
+            "value": 2
+        },
+        {
+            "source": "green_tea",
+            "target": "ice_cream",
+            "value": 1
+        },
+        {
+            "source": "ice_cream",
+            "target": "mochi",
+            "value": 2
+        },
+        {
+            "source": "fruit",
+            "target": "ice_cream",
+            "value": 2
+        },
+        {
+            "source": "ice_cream",
+            "target": "mango",
+            "value": 2
+        },
+        {
+            "source": "green_tea",
+            "target": "mochi",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "green_tea",
+            "value": 1
+        },
+        {
+            "source": "green_tea",
+            "target": "mango",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "mochi",
+            "value": 2
+        },
+        {
+            "source": "mango",
+            "target": "mochi",
+            "value": 2
+        },
+        {
+            "source": "fruit",
+            "target": "mango",
+            "value": 2
+        },
+        {
+            "source": "almond",
+            "target": "dry_fruit",
+            "value": 3
+        },
+        {
+            "source": "cajun",
+            "target": "coffee",
+            "value": 1
+        },
+        {
+            "source": "cajun",
+            "target": "passionfruit",
+            "value": 1
+        },
+        {
+            "source": "cajun",
+            "target": "egg",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "cajun",
+            "value": 1
+        },
+        {
+            "source": "cajun",
+            "target": "crab",
+            "value": 1
+        },
+        {
+            "source": "bone_marrow",
+            "target": "cajun",
+            "value": 1
+        },
+        {
+            "source": "cajun",
+            "target": "fruit",
+            "value": 1
+        },
+        {
+            "source": "cajun",
+            "target": "pork",
+            "value": 1
+        },
+        {
+            "source": "cajun",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "cajun",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "coffee",
+            "target": "passionfruit",
+            "value": 1
+        },
+        {
+            "source": "coffee",
+            "target": "egg",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "coffee",
+            "value": 1
+        },
+        {
+            "source": "coffee",
+            "target": "crab",
+            "value": 1
+        },
+        {
+            "source": "bone_marrow",
+            "target": "coffee",
+            "value": 1
+        },
+        {
+            "source": "coffee",
+            "target": "fruit",
+            "value": 2
+        },
+        {
+            "source": "coffee",
+            "target": "pork",
+            "value": 1
+        },
+        {
+            "source": "coffee",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "coffee",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "passionfruit",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "passionfruit",
+            "value": 1
+        },
+        {
+            "source": "crab",
+            "target": "passionfruit",
+            "value": 1
+        },
+        {
+            "source": "bone_marrow",
+            "target": "passionfruit",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "passionfruit",
+            "value": 1
+        },
+        {
+            "source": "passionfruit",
+            "target": "pork",
+            "value": 1
+        },
+        {
+            "source": "passionfruit",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "passionfruit",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "egg",
+            "value": 2
+        },
+        {
+            "source": "crab",
+            "target": "egg",
+            "value": 1
+        },
+        {
+            "source": "bone_marrow",
+            "target": "egg",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "fruit",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "pork",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "seafood",
+            "value": 2
+        },
+        {
+            "source": "egg",
+            "target": "rice",
+            "value": 3
+        },
+        {
+            "source": "beef",
+            "target": "crab",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "bone_marrow",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "fruit",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "pork",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "seafood",
+            "value": 3
+        },
+        {
+            "source": "beef",
+            "target": "rice",
+            "value": 4
+        },
+        {
+            "source": "bone_marrow",
+            "target": "crab",
+            "value": 1
+        },
+        {
+            "source": "crab",
+            "target": "fruit",
+            "value": 1
+        },
+        {
+            "source": "crab",
+            "target": "pork",
+            "value": 1
+        },
+        {
+            "source": "crab",
+            "target": "seafood",
+            "value": 2
+        },
+        {
+            "source": "crab",
+            "target": "rice",
+            "value": 2
+        },
+        {
+            "source": "bone_marrow",
+            "target": "fruit",
+            "value": 1
+        },
+        {
+            "source": "bone_marrow",
+            "target": "pork",
+            "value": 1
+        },
+        {
+            "source": "bone_marrow",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "bone_marrow",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "pork",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "pork",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "pork",
+            "target": "rice",
+            "value": 2
+        },
+        {
+            "source": "rice",
+            "target": "seafood",
+            "value": 6
+        },
+        {
+            "source": "onion",
+            "target": "vegetable",
+            "value": 3
+        },
+        {
+            "source": "beans",
+            "target": "vegetable",
+            "value": 4
+        },
+        {
+            "source": "beans",
+            "target": "onion",
+            "value": 2
+        },
+        {
+            "source": "milk",
+            "target": "pear",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "milk",
+            "value": 2
+        },
+        {
+            "source": "coffee",
+            "target": "milk",
+            "value": 2
+        },
+        {
+            "source": "cinnamon",
+            "target": "milk",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "milk",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "milk",
+            "value": 1
+        },
+        {
+            "source": "honey",
+            "target": "milk",
+            "value": 2
+        },
+        {
+            "source": "milk",
+            "target": "oat",
+            "value": 2
+        },
+        {
+            "source": "milk",
+            "target": "oats",
+            "value": 2
+        },
+        {
+            "source": "ancient_grain",
+            "target": "pear",
+            "value": 1
+        },
+        {
+            "source": "coffee",
+            "target": "pear",
+            "value": 1
+        },
+        {
+            "source": "cinnamon",
+            "target": "pear",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "pear",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "pear",
+            "value": 3
+        },
+        {
+            "source": "honey",
+            "target": "pear",
+            "value": 1
+        },
+        {
+            "source": "oat",
+            "target": "pear",
+            "value": 1
+        },
+        {
+            "source": "oats",
+            "target": "pear",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "coffee",
+            "value": 2
+        },
+        {
+            "source": "ancient_grain",
+            "target": "cinnamon",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "black_pepper",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "fruit",
+            "value": 3
+        },
+        {
+            "source": "ancient_grain",
+            "target": "honey",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "oat",
+            "value": 3
+        },
+        {
+            "source": "ancient_grain",
+            "target": "oats",
+            "value": 6
+        },
+        {
+            "source": "cinnamon",
+            "target": "coffee",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "coffee",
+            "value": 1
+        },
+        {
+            "source": "coffee",
+            "target": "honey",
+            "value": 1
+        },
+        {
+            "source": "coffee",
+            "target": "oat",
+            "value": 2
+        },
+        {
+            "source": "coffee",
+            "target": "oats",
+            "value": 2
+        },
+        {
+            "source": "black_pepper",
+            "target": "cinnamon",
+            "value": 1
+        },
+        {
+            "source": "cinnamon",
+            "target": "fruit",
+            "value": 1
+        },
+        {
+            "source": "cinnamon",
+            "target": "honey",
+            "value": 1
+        },
+        {
+            "source": "cinnamon",
+            "target": "oat",
+            "value": 1
+        },
+        {
+            "source": "cinnamon",
+            "target": "oats",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "fruit",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "honey",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "oat",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "oats",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "honey",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "oat",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "oats",
+            "value": 3
+        },
+        {
+            "source": "honey",
+            "target": "oat",
+            "value": 1
+        },
+        {
+            "source": "honey",
+            "target": "oats",
+            "value": 1
+        },
+        {
+            "source": "oat",
+            "target": "oats",
+            "value": 3
+        },
+        {
+            "source": "seafood",
+            "target": "smoke",
+            "value": 2
+        },
+        {
+            "source": "beef",
+            "target": "smoke",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "smoke",
+            "value": 2
+        },
+        {
+            "source": "plantain",
+            "target": "white_rice",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "white_rice",
+            "value": 1
+        },
+        {
+            "source": "black_bean",
+            "target": "white_rice",
+            "value": 1
+        },
+        {
+            "source": "beans",
+            "target": "white_rice",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "white_rice",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "plantain",
+            "value": 1
+        },
+        {
+            "source": "black_bean",
+            "target": "plantain",
+            "value": 1
+        },
+        {
+            "source": "beans",
+            "target": "plantain",
+            "value": 1
+        },
+        {
+            "source": "plantain",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "black_bean",
+            "value": 1
+        },
+        {
+            "source": "beans",
+            "target": "beef",
+            "value": 2
+        },
+        {
+            "source": "beans",
+            "target": "black_bean",
+            "value": 1
+        },
+        {
+            "source": "black_bean",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "beans",
+            "target": "rice",
+            "value": 2
+        },
+        {
+            "source": "miso",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "lemon_pepper",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "rice",
+            "value": 2
+        },
+        {
+            "source": "lemon",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "lemon_pepper",
+            "target": "miso",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "miso",
+            "value": 1
+        },
+        {
+            "source": "lemon",
+            "target": "miso",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "lemon_pepper",
+            "value": 1
+        },
+        {
+            "source": "lemon",
+            "target": "lemon_pepper",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "lemon",
+            "value": 1
+        },
+        {
+            "source": "butter",
+            "target": "peanut",
+            "value": 1
+        },
+        {
+            "source": "butter",
+            "target": "peanut_butter",
+            "value": 1
+        },
+        {
+            "source": "peanut",
+            "target": "peanut_butter",
+            "value": 1
+        },
+        {
+            "source": "belacan",
+            "target": "coconut_milk",
+            "value": 1
+        },
+        {
+            "source": "coconut_milk",
+            "target": "fish",
+            "value": 1
+        },
+        {
+            "source": "coconut",
+            "target": "coconut_milk",
+            "value": 1
+        },
+        {
+            "source": "coconut_milk",
+            "target": "egg",
+            "value": 1
+        },
+        {
+            "source": "coconut_milk",
+            "target": "curry",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "coconut_milk",
+            "value": 1
+        },
+        {
+            "source": "coconut_milk",
+            "target": "sambal",
+            "value": 1
+        },
+        {
+            "source": "coconut_milk",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "coconut_milk",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "coconut_milk",
+            "target": "peanut",
+            "value": 1
+        },
+        {
+            "source": "coconut_milk",
+            "target": "satay",
+            "value": 1
+        },
+        {
+            "source": "coconut_milk",
+            "target": "milk",
+            "value": 1
+        },
+        {
+            "source": "coconut_milk",
+            "target": "cucumber",
+            "value": 1
+        },
+        {
+            "source": "coconut_milk",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "belacan",
+            "target": "fish",
+            "value": 1
+        },
+        {
+            "source": "belacan",
+            "target": "coconut",
+            "value": 1
+        },
+        {
+            "source": "belacan",
+            "target": "egg",
+            "value": 1
+        },
+        {
+            "source": "belacan",
+            "target": "curry",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "belacan",
+            "value": 1
+        },
+        {
+            "source": "belacan",
+            "target": "sambal",
+            "value": 1
+        },
+        {
+            "source": "belacan",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "belacan",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "belacan",
+            "target": "peanut",
+            "value": 1
+        },
+        {
+            "source": "belacan",
+            "target": "satay",
+            "value": 1
+        },
+        {
+            "source": "belacan",
+            "target": "milk",
+            "value": 1
+        },
+        {
+            "source": "belacan",
+            "target": "cucumber",
+            "value": 1
+        },
+        {
+            "source": "belacan",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "coconut",
+            "target": "fish",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "fish",
+            "value": 1
+        },
+        {
+            "source": "curry",
+            "target": "fish",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "fish",
+            "value": 1
+        },
+        {
+            "source": "fish",
+            "target": "sambal",
+            "value": 1
+        },
+        {
+            "source": "fish",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "fish",
+            "target": "seafood",
+            "value": 2
+        },
+        {
+            "source": "fish",
+            "target": "peanut",
+            "value": 1
+        },
+        {
+            "source": "fish",
+            "target": "satay",
+            "value": 1
+        },
+        {
+            "source": "fish",
+            "target": "milk",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "fish",
+            "value": 2
+        },
+        {
+            "source": "fish",
+            "target": "rice",
+            "value": 2
+        },
+        {
+            "source": "coconut",
+            "target": "egg",
+            "value": 1
+        },
+        {
+            "source": "coconut",
+            "target": "curry",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "coconut",
+            "value": 1
+        },
+        {
+            "source": "coconut",
+            "target": "sambal",
+            "value": 1
+        },
+        {
+            "source": "coconut",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "coconut",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "coconut",
+            "target": "peanut",
+            "value": 1
+        },
+        {
+            "source": "coconut",
+            "target": "satay",
+            "value": 1
+        },
+        {
+            "source": "coconut",
+            "target": "milk",
+            "value": 1
+        },
+        {
+            "source": "coconut",
+            "target": "cucumber",
+            "value": 1
+        },
+        {
+            "source": "coconut",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "curry",
+            "target": "egg",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "sambal",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "peanut",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "satay",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "milk",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "egg",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "curry",
+            "value": 1
+        },
+        {
+            "source": "curry",
+            "target": "sambal",
+            "value": 1
+        },
+        {
+            "source": "curry",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "curry",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "curry",
+            "target": "peanut",
+            "value": 1
+        },
+        {
+            "source": "curry",
+            "target": "satay",
+            "value": 1
+        },
+        {
+            "source": "curry",
+            "target": "milk",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "curry",
+            "value": 2
+        },
+        {
+            "source": "curry",
+            "target": "rice",
+            "value": 2
+        },
+        {
+            "source": "beef",
+            "target": "sambal",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "peanut",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "satay",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "milk",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "cucumber",
+            "value": 1
+        },
+        {
+            "source": "sambal",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "sambal",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "peanut",
+            "target": "sambal",
+            "value": 1
+        },
+        {
+            "source": "sambal",
+            "target": "satay",
+            "value": 1
+        },
+        {
+            "source": "milk",
+            "target": "sambal",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "sambal",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "sambal",
+            "value": 1
+        },
+        {
+            "source": "seafood",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "peanut",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "satay",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "milk",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "tofu",
+            "value": 2
+        },
+        {
+            "source": "peanut",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "satay",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "milk",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "seafood",
+            "value": 2
+        },
+        {
+            "source": "peanut",
+            "target": "satay",
+            "value": 1
+        },
+        {
+            "source": "milk",
+            "target": "peanut",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "peanut",
+            "value": 1
+        },
+        {
+            "source": "peanut",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "milk",
+            "target": "satay",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "satay",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "satay",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "milk",
+            "value": 1
+        },
+        {
+            "source": "milk",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "rice",
+            "value": 3
+        },
+        {
+            "source": "salted",
+            "target": "sea_salt",
+            "value": 4
+        },
+        {
+            "source": "peanut",
+            "target": "roasted",
+            "value": 1
+        },
+        {
+            "source": "mochi",
+            "target": "peanut",
+            "value": 1
+        },
+        {
+            "source": "black_sesame",
+            "target": "peanut",
+            "value": 1
+        },
+        {
+            "source": "peanut",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "mochi",
+            "target": "roasted",
+            "value": 1
+        },
+        {
+            "source": "black_sesame",
+            "target": "roasted",
+            "value": 1
+        },
+        {
+            "source": "roasted",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "black_sesame",
+            "target": "mochi",
+            "value": 1
+        },
+        {
+            "source": "mochi",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "black_sesame",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "chocolate",
+            "target": "honey",
+            "value": 1
+        },
+        {
+            "source": "chocolate",
+            "target": "milk",
+            "value": 1
+        },
+        {
+            "source": "crayfish",
+            "target": "red_rice",
+            "value": 1
+        },
+        {
+            "source": "crayfish",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "red_rice",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "barley",
+            "value": 1
+        },
+        {
+            "source": "beans",
+            "target": "coffee",
+            "value": 2
+        },
+        {
+            "source": "wheat",
+            "target": "wheat_flour",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "vegetable",
+            "value": 3
+        },
+        {
+            "source": "rice",
+            "target": "tomato",
+            "value": 1
+        },
+        {
+            "source": "basmati_rice",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "chicken",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "tomato",
+            "target": "vegetable",
+            "value": 3
+        },
+        {
+            "source": "basmati_rice",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "chicken",
+            "target": "vegetable",
+            "value": 4
+        },
+        {
+            "source": "basmati_rice",
+            "target": "tomato",
+            "value": 1
+        },
+        {
+            "source": "chicken",
+            "target": "tomato",
+            "value": 2
+        },
+        {
+            "source": "basmati_rice",
+            "target": "chicken",
+            "value": 1
+        },
+        {
+            "source": "avocado",
+            "target": "fish",
+            "value": 1
+        },
+        {
+            "source": "fish",
+            "target": "wasabi",
+            "value": 1
+        },
+        {
+            "source": "fish",
+            "target": "salmon",
+            "value": 1
+        },
+        {
+            "source": "crab",
+            "target": "fish",
+            "value": 1
+        },
+        {
+            "source": "fish",
+            "target": "spicy",
+            "value": 1
+        },
+        {
+            "source": "fish",
+            "target": "ginger",
+            "value": 1
+        },
+        {
+            "source": "fish",
+            "target": "rose",
+            "value": 1
+        },
+        {
+            "source": "avocado",
+            "target": "wasabi",
+            "value": 1
+        },
+        {
+            "source": "avocado",
+            "target": "salmon",
+            "value": 1
+        },
+        {
+            "source": "avocado",
+            "target": "crab",
+            "value": 1
+        },
+        {
+            "source": "avocado",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "avocado",
+            "target": "spicy",
+            "value": 1
+        },
+        {
+            "source": "avocado",
+            "target": "ginger",
+            "value": 1
+        },
+        {
+            "source": "avocado",
+            "target": "cucumber",
+            "value": 1
+        },
+        {
+            "source": "avocado",
+            "target": "rose",
+            "value": 1
+        },
+        {
+            "source": "avocado",
+            "target": "rice",
+            "value": 2
+        },
+        {
+            "source": "salmon",
+            "target": "wasabi",
+            "value": 1
+        },
+        {
+            "source": "crab",
+            "target": "wasabi",
+            "value": 1
+        },
+        {
+            "source": "seafood",
+            "target": "wasabi",
+            "value": 1
+        },
+        {
+            "source": "spicy",
+            "target": "wasabi",
+            "value": 1
+        },
+        {
+            "source": "ginger",
+            "target": "wasabi",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "wasabi",
+            "value": 1
+        },
+        {
+            "source": "rose",
+            "target": "wasabi",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "wasabi",
+            "value": 1
+        },
+        {
+            "source": "crab",
+            "target": "salmon",
+            "value": 1
+        },
+        {
+            "source": "salmon",
+            "target": "seafood",
+            "value": 2
+        },
+        {
+            "source": "salmon",
+            "target": "spicy",
+            "value": 1
+        },
+        {
+            "source": "ginger",
+            "target": "salmon",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "salmon",
+            "value": 1
+        },
+        {
+            "source": "rose",
+            "target": "salmon",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "salmon",
+            "value": 2
+        },
+        {
+            "source": "crab",
+            "target": "spicy",
+            "value": 1
+        },
+        {
+            "source": "crab",
+            "target": "ginger",
+            "value": 1
+        },
+        {
+            "source": "crab",
+            "target": "cucumber",
+            "value": 1
+        },
+        {
+            "source": "crab",
+            "target": "rose",
+            "value": 1
+        },
+        {
+            "source": "seafood",
+            "target": "spicy",
+            "value": 1
+        },
+        {
+            "source": "ginger",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "rose",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "ginger",
+            "target": "spicy",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "spicy",
+            "value": 1
+        },
+        {
+            "source": "rose",
+            "target": "spicy",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "spicy",
+            "value": 2
+        },
+        {
+            "source": "cucumber",
+            "target": "ginger",
+            "value": 1
+        },
+        {
+            "source": "ginger",
+            "target": "rose",
+            "value": 1
+        },
+        {
+            "source": "ginger",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "rose",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "rose",
+            "value": 1
+        },
+        {
+            "source": "onion",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "herbs",
+            "target": "onion",
+            "value": 1
+        },
+        {
+            "source": "ham",
+            "target": "onion",
+            "value": 2
+        },
+        {
+            "source": "black_pepper",
+            "target": "onion",
+            "value": 2
+        },
+        {
+            "source": "basil",
+            "target": "onion",
+            "value": 1
+        },
+        {
+            "source": "garlic",
+            "target": "onion",
+            "value": 2
+        },
+        {
+            "source": "chicken",
+            "target": "onion",
+            "value": 1
+        },
+        {
+            "source": "herbs",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "salted",
+            "target": "vegetable",
+            "value": 2
+        },
+        {
+            "source": "beans",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "ham",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "basil",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "garlic",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "chicken",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "herbs",
+            "target": "vegetable",
+            "value": 2
+        },
+        {
+            "source": "beans",
+            "target": "herbs",
+            "value": 1
+        },
+        {
+            "source": "ham",
+            "target": "herbs",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "herbs",
+            "value": 1
+        },
+        {
+            "source": "basil",
+            "target": "herbs",
+            "value": 3
+        },
+        {
+            "source": "garlic",
+            "target": "herbs",
+            "value": 1
+        },
+        {
+            "source": "chicken",
+            "target": "herbs",
+            "value": 1
+        },
+        {
+            "source": "ham",
+            "target": "vegetable",
+            "value": 2
+        },
+        {
+            "source": "black_pepper",
+            "target": "vegetable",
+            "value": 2
+        },
+        {
+            "source": "basil",
+            "target": "vegetable",
+            "value": 2
+        },
+        {
+            "source": "garlic",
+            "target": "vegetable",
+            "value": 2
+        },
+        {
+            "source": "beans",
+            "target": "ham",
+            "value": 2
+        },
+        {
+            "source": "beans",
+            "target": "black_pepper",
+            "value": 1
+        },
+        {
+            "source": "basil",
+            "target": "beans",
+            "value": 1
+        },
+        {
+            "source": "beans",
+            "target": "garlic",
+            "value": 2
+        },
+        {
+            "source": "beans",
+            "target": "chicken",
+            "value": 2
+        },
+        {
+            "source": "black_pepper",
+            "target": "ham",
+            "value": 2
+        },
+        {
+            "source": "basil",
+            "target": "ham",
+            "value": 1
+        },
+        {
+            "source": "garlic",
+            "target": "ham",
+            "value": 3
+        },
+        {
+            "source": "chicken",
+            "target": "ham",
+            "value": 1
+        },
+        {
+            "source": "basil",
+            "target": "black_pepper",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "garlic",
+            "value": 2
+        },
+        {
+            "source": "black_pepper",
+            "target": "chicken",
+            "value": 1
+        },
+        {
+            "source": "basil",
+            "target": "garlic",
+            "value": 1
+        },
+        {
+            "source": "basil",
+            "target": "chicken",
+            "value": 1
+        },
+        {
+            "source": "chicken",
+            "target": "garlic",
+            "value": 1
+        },
+        {
+            "source": "nachos",
+            "target": "tortilla",
+            "value": 1
+        },
+        {
+            "source": "nachos",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "lime",
+            "target": "nachos",
+            "value": 1
+        },
+        {
+            "source": "nachos",
+            "target": "sea_salt",
+            "value": 1
+        },
+        {
+            "source": "salted",
+            "target": "tortilla",
+            "value": 1
+        },
+        {
+            "source": "lime",
+            "target": "tortilla",
+            "value": 1
+        },
+        {
+            "source": "sea_salt",
+            "target": "tortilla",
+            "value": 1
+        },
+        {
+            "source": "lime",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "lime",
+            "target": "sea_salt",
+            "value": 1
+        },
+        {
+            "source": "aioli",
+            "target": "tortilla",
+            "value": 1
+        },
+        {
+            "source": "garlic",
+            "target": "mayonnaise",
+            "value": 1
+        },
+        {
+            "source": "cream_cheese",
+            "target": "mayonnaise",
+            "value": 1
+        },
+        {
+            "source": "cheese",
+            "target": "mayonnaise",
+            "value": 1
+        },
+        {
+            "source": "cream",
+            "target": "mayonnaise",
+            "value": 1
+        },
+        {
+            "source": "butter",
+            "target": "mayonnaise",
+            "value": 1
+        },
+        {
+            "source": "cream_cheese",
+            "target": "garlic",
+            "value": 1
+        },
+        {
+            "source": "cheese",
+            "target": "garlic",
+            "value": 1
+        },
+        {
+            "source": "cream",
+            "target": "garlic",
+            "value": 1
+        },
+        {
+            "source": "butter",
+            "target": "garlic",
+            "value": 1
+        },
+        {
+            "source": "cheese",
+            "target": "cream_cheese",
+            "value": 1
+        },
+        {
+            "source": "cream",
+            "target": "cream_cheese",
+            "value": 1
+        },
+        {
+            "source": "butter",
+            "target": "cream_cheese",
+            "value": 1
+        },
+        {
+            "source": "cheese",
+            "target": "cream",
+            "value": 1
+        },
+        {
+            "source": "butter",
+            "target": "cheese",
+            "value": 1
+        },
+        {
+            "source": "butter",
+            "target": "cream",
+            "value": 1
+        },
+        {
+            "source": "dry_fruit",
+            "target": "oats",
+            "value": 1
+        },
+        {
+            "source": "chia_seeds",
+            "target": "dry_fruit",
+            "value": 1
+        },
+        {
+            "source": "almond_butter",
+            "target": "dry_fruit",
+            "value": 1
+        },
+        {
+            "source": "butter",
+            "target": "dry_fruit",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "dry_fruit",
+            "value": 1
+        },
+        {
+            "source": "almond",
+            "target": "oats",
+            "value": 1
+        },
+        {
+            "source": "chia_seeds",
+            "target": "oats",
+            "value": 1
+        },
+        {
+            "source": "almond_butter",
+            "target": "oats",
+            "value": 1
+        },
+        {
+            "source": "butter",
+            "target": "oats",
+            "value": 1
+        },
+        {
+            "source": "almond",
+            "target": "chia_seeds",
+            "value": 1
+        },
+        {
+            "source": "almond",
+            "target": "almond_butter",
+            "value": 1
+        },
+        {
+            "source": "almond",
+            "target": "butter",
+            "value": 1
+        },
+        {
+            "source": "almond",
+            "target": "ancient_grain",
+            "value": 1
+        },
+        {
+            "source": "almond_butter",
+            "target": "chia_seeds",
+            "value": 1
+        },
+        {
+            "source": "butter",
+            "target": "chia_seeds",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "chia_seeds",
+            "value": 1
+        },
+        {
+            "source": "almond_butter",
+            "target": "butter",
+            "value": 1
+        },
+        {
+            "source": "almond_butter",
+            "target": "ancient_grain",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "butter",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "buckwheat",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "sour_cream",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "guacamole",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "vegetable",
+            "value": 4
+        },
+        {
+            "source": "beef",
+            "target": "chicken",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "tomato",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "sour_cream",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "guacamole",
+            "value": 1
+        },
+        {
+            "source": "beef",
+            "target": "corn",
+            "value": 1
+        },
+        {
+            "source": "chicken",
+            "target": "sour_cream",
+            "value": 1
+        },
+        {
+            "source": "chicken",
+            "target": "guacamole",
+            "value": 1
+        },
+        {
+            "source": "chicken",
+            "target": "corn",
+            "value": 3
+        },
+        {
+            "source": "sour_cream",
+            "target": "tomato",
+            "value": 1
+        },
+        {
+            "source": "beans",
+            "target": "tomato",
+            "value": 1
+        },
+        {
+            "source": "guacamole",
+            "target": "tomato",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "tomato",
+            "value": 2
+        },
+        {
+            "source": "beans",
+            "target": "sour_cream",
+            "value": 1
+        },
+        {
+            "source": "guacamole",
+            "target": "sour_cream",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "sour_cream",
+            "value": 1
+        },
+        {
+            "source": "beans",
+            "target": "guacamole",
+            "value": 1
+        },
+        {
+            "source": "beans",
+            "target": "corn",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "guacamole",
+            "value": 1
+        },
+        {
+            "source": "cream",
+            "target": "strawberry",
+            "value": 1
+        },
+        {
+            "source": "cream",
+            "target": "guava",
+            "value": 1
+        },
+        {
+            "source": "cream",
+            "target": "ube",
+            "value": 1
+        },
+        {
+            "source": "cream",
+            "target": "taro",
+            "value": 1
+        },
+        {
+            "source": "ice_cream",
+            "target": "strawberry",
+            "value": 1
+        },
+        {
+            "source": "guava",
+            "target": "ice_cream",
+            "value": 1
+        },
+        {
+            "source": "ice_cream",
+            "target": "ube",
+            "value": 1
+        },
+        {
+            "source": "ice_cream",
+            "target": "taro",
+            "value": 1
+        },
+        {
+            "source": "guava",
+            "target": "strawberry",
+            "value": 1
+        },
+        {
+            "source": "mochi",
+            "target": "strawberry",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "strawberry",
+            "value": 1
+        },
+        {
+            "source": "mango",
+            "target": "strawberry",
+            "value": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "ube",
+            "value": 1
+        },
+        {
+            "source": "strawberry",
+            "target": "taro",
+            "value": 1
+        },
+        {
+            "source": "guava",
+            "target": "mochi",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "guava",
+            "value": 1
+        },
+        {
+            "source": "guava",
+            "target": "mango",
+            "value": 1
+        },
+        {
+            "source": "guava",
+            "target": "ube",
+            "value": 1
+        },
+        {
+            "source": "guava",
+            "target": "taro",
+            "value": 1
+        },
+        {
+            "source": "mochi",
+            "target": "ube",
+            "value": 1
+        },
+        {
+            "source": "mochi",
+            "target": "taro",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "ube",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "taro",
+            "value": 1
+        },
+        {
+            "source": "mango",
+            "target": "ube",
+            "value": 1
+        },
+        {
+            "source": "mango",
+            "target": "taro",
+            "value": 1
+        },
+        {
+            "source": "taro",
+            "target": "ube",
+            "value": 1
+        },
+        {
+            "source": "asparagus",
+            "target": "salmon",
+            "value": 1
+        },
+        {
+            "source": "asparagus",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "asparagus",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "cheese",
+            "target": "grape",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "truffle",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "sweet_corn",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "herbs",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "truffle_mushroom",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "lamb_meat",
+            "value": 1
+        },
+        {
+            "source": "basil",
+            "target": "corn",
+            "value": 1
+        },
+        {
+            "source": "sweet_corn",
+            "target": "truffle",
+            "value": 1
+        },
+        {
+            "source": "herbs",
+            "target": "truffle",
+            "value": 1
+        },
+        {
+            "source": "truffle",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "tomato",
+            "target": "truffle",
+            "value": 1
+        },
+        {
+            "source": "truffle",
+            "target": "truffle_mushroom",
+            "value": 2
+        },
+        {
+            "source": "lamb_meat",
+            "target": "truffle",
+            "value": 1
+        },
+        {
+            "source": "basil",
+            "target": "truffle",
+            "value": 1
+        },
+        {
+            "source": "herbs",
+            "target": "sweet_corn",
+            "value": 1
+        },
+        {
+            "source": "sweet_corn",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "sweet_corn",
+            "target": "tomato",
+            "value": 1
+        },
+        {
+            "source": "sweet_corn",
+            "target": "truffle_mushroom",
+            "value": 1
+        },
+        {
+            "source": "lamb_meat",
+            "target": "sweet_corn",
+            "value": 1
+        },
+        {
+            "source": "basil",
+            "target": "sweet_corn",
+            "value": 1
+        },
+        {
+            "source": "herbs",
+            "target": "tomato",
+            "value": 1
+        },
+        {
+            "source": "herbs",
+            "target": "truffle_mushroom",
+            "value": 1
+        },
+        {
+            "source": "herbs",
+            "target": "lamb_meat",
+            "value": 1
+        },
+        {
+            "source": "truffle_mushroom",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "lamb_meat",
+            "target": "vegetable",
+            "value": 2
+        },
+        {
+            "source": "tomato",
+            "target": "truffle_mushroom",
+            "value": 1
+        },
+        {
+            "source": "lamb_meat",
+            "target": "tomato",
+            "value": 1
+        },
+        {
+            "source": "basil",
+            "target": "tomato",
+            "value": 1
+        },
+        {
+            "source": "lamb_meat",
+            "target": "truffle_mushroom",
+            "value": 1
+        },
+        {
+            "source": "basil",
+            "target": "truffle_mushroom",
+            "value": 1
+        },
+        {
+            "source": "basil",
+            "target": "lamb_meat",
+            "value": 1
+        },
+        {
+            "source": "cheese",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "cheese",
+            "value": 1
+        },
+        {
+            "source": "cheese",
+            "target": "white_cheddar",
+            "value": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "white_cheddar",
+            "value": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "white_cheddar",
+            "value": 1
+        },
+        {
+            "source": "capsicum",
+            "target": "red_bell_pepper",
+            "value": 1
+        },
+        {
+            "source": "capsicum",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "capsicum",
+            "target": "scallion",
+            "value": 1
+        },
+        {
+            "source": "capsicum",
+            "target": "egg",
+            "value": 1
+        },
+        {
+            "source": "capsicum",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "capsicum",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "capsicum",
+            "target": "pineapple",
+            "value": 1
+        },
+        {
+            "source": "capsicum",
+            "target": "garlic",
+            "value": 1
+        },
+        {
+            "source": "capsicum",
+            "target": "cloves",
+            "value": 1
+        },
+        {
+            "source": "capsicum",
+            "target": "onion",
+            "value": 1
+        },
+        {
+            "source": "capsicum",
+            "target": "soy_sauce",
+            "value": 1
+        },
+        {
+            "source": "capsicum",
+            "target": "ham",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "capsicum",
+            "value": 1
+        },
+        {
+            "source": "capsicum",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "capsicum",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "capsicum",
+            "value": 1
+        },
+        {
+            "source": "red_bell_pepper",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "red_bell_pepper",
+            "target": "scallion",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "red_bell_pepper",
+            "value": 1
+        },
+        {
+            "source": "red_bell_pepper",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "red_bell_pepper",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "pineapple",
+            "target": "red_bell_pepper",
+            "value": 1
+        },
+        {
+            "source": "garlic",
+            "target": "red_bell_pepper",
+            "value": 1
+        },
+        {
+            "source": "cloves",
+            "target": "red_bell_pepper",
+            "value": 1
+        },
+        {
+            "source": "onion",
+            "target": "red_bell_pepper",
+            "value": 1
+        },
+        {
+            "source": "red_bell_pepper",
+            "target": "soy_sauce",
+            "value": 1
+        },
+        {
+            "source": "ham",
+            "target": "red_bell_pepper",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "red_bell_pepper",
+            "value": 1
+        },
+        {
+            "source": "red_bell_pepper",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "red_bell_pepper",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "red_bell_pepper",
+            "value": 1
+        },
+        {
+            "source": "scallion",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "soybean",
+            "target": "vegetable",
+            "value": 2
+        },
+        {
+            "source": "sesame_seed",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "pineapple",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "cloves",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "soy_sauce",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "vegetable",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "scallion",
+            "value": 1
+        },
+        {
+            "source": "scallion",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "scallion",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "pineapple",
+            "target": "scallion",
+            "value": 1
+        },
+        {
+            "source": "garlic",
+            "target": "scallion",
+            "value": 1
+        },
+        {
+            "source": "cloves",
+            "target": "scallion",
+            "value": 1
+        },
+        {
+            "source": "onion",
+            "target": "scallion",
+            "value": 1
+        },
+        {
+            "source": "scallion",
+            "target": "soy_sauce",
+            "value": 1
+        },
+        {
+            "source": "ham",
+            "target": "scallion",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "scallion",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "scallion",
+            "value": 1
+        },
+        {
+            "source": "scallion",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "scallion",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "pineapple",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "garlic",
+            "value": 1
+        },
+        {
+            "source": "cloves",
+            "target": "egg",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "onion",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "soy_sauce",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "ham",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "egg",
+            "value": 1
+        },
+        {
+            "source": "egg",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "egg",
+            "value": 1
+        },
+        {
+            "source": "sesame_seed",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "pineapple",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "garlic",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "cloves",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "onion",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "soy_sauce",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "ham",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "soybean",
+            "value": 3
+        },
+        {
+            "source": "soybean",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "pineapple",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "garlic",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "cloves",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "onion",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "sesame_seed",
+            "target": "soy_sauce",
+            "value": 1
+        },
+        {
+            "source": "ham",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "sesame_seed",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "garlic",
+            "target": "pineapple",
+            "value": 1
+        },
+        {
+            "source": "cloves",
+            "target": "pineapple",
+            "value": 1
+        },
+        {
+            "source": "onion",
+            "target": "pineapple",
+            "value": 1
+        },
+        {
+            "source": "pineapple",
+            "target": "soy_sauce",
+            "value": 1
+        },
+        {
+            "source": "ham",
+            "target": "pineapple",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "pineapple",
+            "value": 1
+        },
+        {
+            "source": "pineapple",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "pineapple",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "pineapple",
+            "value": 1
+        },
+        {
+            "source": "cloves",
+            "target": "garlic",
+            "value": 1
+        },
+        {
+            "source": "garlic",
+            "target": "soy_sauce",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "garlic",
+            "value": 1
+        },
+        {
+            "source": "garlic",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "garlic",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "cloves",
+            "target": "onion",
+            "value": 1
+        },
+        {
+            "source": "cloves",
+            "target": "soy_sauce",
+            "value": 1
+        },
+        {
+            "source": "cloves",
+            "target": "ham",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "cloves",
+            "value": 1
+        },
+        {
+            "source": "cloves",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "cloves",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "cloves",
+            "value": 1
+        },
+        {
+            "source": "onion",
+            "target": "soy_sauce",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "onion",
+            "value": 1
+        },
+        {
+            "source": "onion",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "onion",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "ham",
+            "target": "soy_sauce",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "soy_sauce",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "soy_sauce",
+            "value": 1
+        },
+        {
+            "source": "soy_sauce",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "soy_sauce",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "ham",
+            "value": 1
+        },
+        {
+            "source": "ham",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "ham",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "bacon",
+            "target": "black_pepper",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "black_pepper",
+            "target": "zucchini",
+            "value": 1
+        },
+        {
+            "source": "barbecue",
+            "target": "corn",
+            "value": 1
+        },
+        {
+            "source": "jasmine_rice",
+            "target": "mushroom",
+            "value": 1
+        },
+        {
+            "source": "herbs",
+            "target": "mushroom",
+            "value": 1
+        },
+        {
+            "source": "mushroom",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "basil",
+            "target": "mushroom",
+            "value": 1
+        },
+        {
+            "source": "herbs",
+            "target": "jasmine_rice",
+            "value": 1
+        },
+        {
+            "source": "jasmine_rice",
+            "target": "rice",
+            "value": 2
+        },
+        {
+            "source": "basil",
+            "target": "jasmine_rice",
+            "value": 1
+        },
+        {
+            "source": "herbs",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "basil",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "potato",
+            "target": "salsa",
+            "value": 1
+        },
+        {
+            "source": "avocado",
+            "target": "potato",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "potato",
+            "value": 2
+        },
+        {
+            "source": "broccoli",
+            "target": "potato",
+            "value": 1
+        },
+        {
+            "source": "pico_de_gallo",
+            "target": "potato",
+            "value": 1
+        },
+        {
+            "source": "potato",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "avocado",
+            "target": "salsa",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "salsa",
+            "value": 1
+        },
+        {
+            "source": "broccoli",
+            "target": "salsa",
+            "value": 1
+        },
+        {
+            "source": "pico_de_gallo",
+            "target": "salsa",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "salsa",
+            "value": 1
+        },
+        {
+            "source": "avocado",
+            "target": "corn",
+            "value": 1
+        },
+        {
+            "source": "avocado",
+            "target": "broccoli",
+            "value": 1
+        },
+        {
+            "source": "avocado",
+            "target": "pico_de_gallo",
+            "value": 1
+        },
+        {
+            "source": "broccoli",
+            "target": "corn",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "pico_de_gallo",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "rice",
+            "value": 2
+        },
+        {
+            "source": "broccoli",
+            "target": "pico_de_gallo",
+            "value": 1
+        },
+        {
+            "source": "broccoli",
+            "target": "rice",
+            "value": 2
+        },
+        {
+            "source": "pico_de_gallo",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "salted",
+            "value": 2
+        },
+        {
+            "source": "dry_fruit",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "almond",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "dry_fruit",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "almond",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "popcorn",
+            "value": 1
+        },
+        {
+            "source": "coffee",
+            "target": "malt",
+            "value": 1
+        },
+        {
+            "source": "ice_cream",
+            "target": "red_velvet",
+            "value": 1
+        },
+        {
+            "source": "cream",
+            "target": "red_velvet",
+            "value": 1
+        },
+        {
+            "source": "milk",
+            "target": "red_velvet",
+            "value": 1
+        },
+        {
+            "source": "ice_cream",
+            "target": "milk",
+            "value": 1
+        },
+        {
+            "source": "cream",
+            "target": "milk",
+            "value": 1
+        },
+        {
+            "source": "cereal",
+            "target": "rose",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "taco",
+            "value": 1
+        },
+        {
+            "source": "peas",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "peas",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "fruit",
+            "value": 1
+        },
+        {
+            "source": "curry",
+            "target": "lentils",
+            "value": 1
+        },
+        {
+            "source": "pumpkin",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "pumpkin",
+            "target": "pumpkin_seeds",
+            "value": 1
+        },
+        {
+            "source": "cereal",
+            "target": "pumpkin",
+            "value": 1
+        },
+        {
+            "source": "pumpkin_seeds",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "cereal",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "cereal",
+            "target": "pumpkin_seeds",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "tahini",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "masala",
+            "value": 1
+        },
+        {
+            "source": "chickpea",
+            "target": "cucumber",
+            "value": 1
+        },
+        {
+            "source": "cucumber",
+            "target": "lime",
+            "value": 1
+        },
+        {
+            "source": "curry",
+            "target": "tahini",
+            "value": 1
+        },
+        {
+            "source": "masala",
+            "target": "tahini",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "tahini",
+            "value": 1
+        },
+        {
+            "source": "chickpea",
+            "target": "tahini",
+            "value": 1
+        },
+        {
+            "source": "lime",
+            "target": "tahini",
+            "value": 1
+        },
+        {
+            "source": "curry",
+            "target": "masala",
+            "value": 1
+        },
+        {
+            "source": "chickpea",
+            "target": "curry",
+            "value": 1
+        },
+        {
+            "source": "curry",
+            "target": "lime",
+            "value": 1
+        },
+        {
+            "source": "masala",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "chickpea",
+            "target": "masala",
+            "value": 1
+        },
+        {
+            "source": "lime",
+            "target": "masala",
+            "value": 1
+        },
+        {
+            "source": "chickpea",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "lime",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "chickpea",
+            "target": "lime",
+            "value": 1
+        },
+        {
+            "source": "ginger",
+            "target": "watercress",
+            "value": 1
+        },
+        {
+            "source": "tofu",
+            "target": "watercress",
+            "value": 1
+        },
+        {
+            "source": "ginger",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "banana",
+            "target": "oats",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "banana",
+            "value": 1
+        },
+        {
+            "source": "banana",
+            "target": "fruit",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "cherry",
+            "value": 1
+        },
+        {
+            "source": "cherry",
+            "target": "oats",
+            "value": 1
+        },
+        {
+            "source": "cherry",
+            "target": "fruit",
+            "value": 2
+        },
+        {
+            "source": "graham",
+            "target": "pear",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "graham",
+            "value": 1
+        },
+        {
+            "source": "cherry",
+            "target": "graham",
+            "value": 1
+        },
+        {
+            "source": "graham",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "graham",
+            "target": "masala",
+            "value": 1
+        },
+        {
+            "source": "cardamom",
+            "target": "graham",
+            "value": 1
+        },
+        {
+            "source": "graham",
+            "target": "s'more",
+            "value": 1
+        },
+        {
+            "source": "cherry",
+            "target": "pear",
+            "value": 1
+        },
+        {
+            "source": "pear",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "masala",
+            "target": "pear",
+            "value": 1
+        },
+        {
+            "source": "cardamom",
+            "target": "pear",
+            "value": 1
+        },
+        {
+            "source": "pear",
+            "target": "s'more",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "masala",
+            "value": 1
+        },
+        {
+            "source": "cardamom",
+            "target": "fruit",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "s'more",
+            "value": 1
+        },
+        {
+            "source": "cherry",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "cherry",
+            "target": "masala",
+            "value": 1
+        },
+        {
+            "source": "cardamom",
+            "target": "cherry",
+            "value": 1
+        },
+        {
+            "source": "cherry",
+            "target": "s'more",
+            "value": 1
+        },
+        {
+            "source": "masala",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "cardamom",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "s'more",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "cardamom",
+            "target": "masala",
+            "value": 1
+        },
+        {
+            "source": "masala",
+            "target": "s'more",
+            "value": 1
+        },
+        {
+            "source": "cardamom",
+            "target": "s'more",
+            "value": 1
+        },
+        {
+            "source": "broccoli",
+            "target": "hollandaise",
+            "value": 1
+        },
+        {
+            "source": "broccoli",
+            "target": "kale",
+            "value": 1
+        },
+        {
+            "source": "broccoli",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "hollandaise",
+            "target": "kale",
+            "value": 1
+        },
+        {
+            "source": "hollandaise",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "kale",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "cheese",
+            "target": "corn",
+            "value": 1
+        },
+        {
+            "source": "cream",
+            "target": "vanilla",
+            "value": 1
+        },
+        {
+            "source": "cream",
+            "target": "rye",
+            "value": 1
+        },
+        {
+            "source": "ice_cream",
+            "target": "vanilla",
+            "value": 1
+        },
+        {
+            "source": "rye",
+            "target": "vanilla",
+            "value": 1
+        },
+        {
+            "source": "ice_cream",
+            "target": "rye",
+            "value": 1
+        },
+        {
+            "source": "cereal",
+            "target": "marshmallow",
+            "value": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "jalapeno",
+            "value": 1
+        },
+        {
+            "source": "jalapeno",
+            "target": "truffle_mushroom",
+            "value": 1
+        },
+        {
+            "source": "jalapeno",
+            "target": "truffle",
+            "value": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "truffle_mushroom",
+            "value": 1
+        },
+        {
+            "source": "cheddar_cheese",
+            "target": "truffle",
+            "value": 1
+        },
+        {
+            "source": "lamb_meat",
+            "target": "potato",
+            "value": 1
+        },
+        {
+            "source": "beans",
+            "target": "lamb_meat",
+            "value": 1
+        },
+        {
+            "source": "potato",
+            "target": "vegetable",
+            "value": 3
+        },
+        {
+            "source": "beans",
+            "target": "potato",
+            "value": 1
+        },
+        {
+            "source": "chocolate",
+            "target": "granola",
+            "value": 1
+        },
+        {
+            "source": "chicken",
+            "target": "potato",
+            "value": 1
+        },
+        {
+            "source": "jasmine_rice",
+            "target": "tofu",
+            "value": 1
+        },
+        {
+            "source": "broccoli",
+            "target": "chicken_wing",
+            "value": 1
+        },
+        {
+            "source": "broccoli",
+            "target": "pork",
+            "value": 1
+        },
+        {
+            "source": "chicken_wing",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "chicken_wing",
+            "target": "pork",
+            "value": 1
+        },
+        {
+            "source": "beans",
+            "target": "rye",
+            "value": 1
+        },
+        {
+            "source": "oats",
+            "target": "vegetable",
+            "value": 2
+        },
+        {
+            "source": "coconut",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "coconut",
+            "target": "oats",
+            "value": 1
+        },
+        {
+            "source": "oats",
+            "target": "potato",
+            "value": 1
+        },
+        {
+            "source": "coconut",
+            "target": "potato",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "spinach",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "rice",
+            "target": "wheat",
+            "value": 1
+        },
+        {
+            "source": "ranch",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "olive",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "clam",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "olive_oil",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "oat",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "oats",
+            "target": "rice",
+            "value": 1
+        },
+        {
+            "source": "soybean",
+            "target": "spinach",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "spinach",
+            "value": 1
+        },
+        {
+            "source": "salted",
+            "target": "spinach",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "spinach",
+            "value": 1
+        },
+        {
+            "source": "smoke",
+            "target": "spinach",
+            "value": 1
+        },
+        {
+            "source": "spinach",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "spinach",
+            "target": "wheat",
+            "value": 1
+        },
+        {
+            "source": "ranch",
+            "target": "spinach",
+            "value": 1
+        },
+        {
+            "source": "olive",
+            "target": "spinach",
+            "value": 1
+        },
+        {
+            "source": "clam",
+            "target": "spinach",
+            "value": 1
+        },
+        {
+            "source": "olive_oil",
+            "target": "spinach",
+            "value": 1
+        },
+        {
+            "source": "oat",
+            "target": "spinach",
+            "value": 1
+        },
+        {
+            "source": "oats",
+            "target": "spinach",
+            "value": 1
+        },
+        {
+            "source": "seafood",
+            "target": "spinach",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "salted",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "smoke",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "soybean",
+            "target": "wheat",
+            "value": 1
+        },
+        {
+            "source": "ranch",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "olive",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "clam",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "olive_oil",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "oat",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "oats",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "seafood",
+            "target": "soybean",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "corn",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "smoke",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "wheat",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "ranch",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "olive",
+            "value": 1
+        },
+        {
+            "source": "clam",
+            "target": "corn",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "olive_oil",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "oat",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "oats",
+            "value": 1
+        },
+        {
+            "source": "corn",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "salted",
+            "target": "smoke",
+            "value": 1
+        },
+        {
+            "source": "salted",
+            "target": "wheat",
+            "value": 1
+        },
+        {
+            "source": "ranch",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "olive",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "clam",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "olive_oil",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "oat",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "oats",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "salted",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "smoke",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "wheat",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "ranch",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "olive",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "clam",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "olive_oil",
+            "value": 1
+        },
+        {
+            "source": "ancient_grain",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "smoke",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "smoke",
+            "target": "wheat",
+            "value": 1
+        },
+        {
+            "source": "ranch",
+            "target": "smoke",
+            "value": 1
+        },
+        {
+            "source": "olive",
+            "target": "smoke",
+            "value": 1
+        },
+        {
+            "source": "clam",
+            "target": "smoke",
+            "value": 1
+        },
+        {
+            "source": "olive_oil",
+            "target": "smoke",
+            "value": 1
+        },
+        {
+            "source": "oat",
+            "target": "smoke",
+            "value": 1
+        },
+        {
+            "source": "oats",
+            "target": "smoke",
+            "value": 1
+        },
+        {
+            "source": "vegetable",
+            "target": "wheat",
+            "value": 1
+        },
+        {
+            "source": "ranch",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "olive",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "clam",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "olive_oil",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "oat",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "seafood",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "ranch",
+            "target": "wheat",
+            "value": 1
+        },
+        {
+            "source": "olive",
+            "target": "wheat",
+            "value": 1
+        },
+        {
+            "source": "clam",
+            "target": "wheat",
+            "value": 1
+        },
+        {
+            "source": "olive_oil",
+            "target": "wheat",
+            "value": 1
+        },
+        {
+            "source": "oat",
+            "target": "wheat",
+            "value": 1
+        },
+        {
+            "source": "oats",
+            "target": "wheat",
+            "value": 1
+        },
+        {
+            "source": "seafood",
+            "target": "wheat",
+            "value": 1
+        },
+        {
+            "source": "olive",
+            "target": "ranch",
+            "value": 1
+        },
+        {
+            "source": "clam",
+            "target": "ranch",
+            "value": 1
+        },
+        {
+            "source": "olive_oil",
+            "target": "ranch",
+            "value": 1
+        },
+        {
+            "source": "oat",
+            "target": "ranch",
+            "value": 1
+        },
+        {
+            "source": "oats",
+            "target": "ranch",
+            "value": 1
+        },
+        {
+            "source": "ranch",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "clam",
+            "target": "olive",
+            "value": 1
+        },
+        {
+            "source": "olive",
+            "target": "olive_oil",
+            "value": 1
+        },
+        {
+            "source": "oat",
+            "target": "olive",
+            "value": 1
+        },
+        {
+            "source": "oats",
+            "target": "olive",
+            "value": 1
+        },
+        {
+            "source": "olive",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "clam",
+            "target": "olive_oil",
+            "value": 1
+        },
+        {
+            "source": "clam",
+            "target": "oat",
+            "value": 1
+        },
+        {
+            "source": "clam",
+            "target": "oats",
+            "value": 1
+        },
+        {
+            "source": "clam",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "oat",
+            "target": "olive_oil",
+            "value": 1
+        },
+        {
+            "source": "oats",
+            "target": "olive_oil",
+            "value": 1
+        },
+        {
+            "source": "olive_oil",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "oat",
+            "target": "seafood",
+            "value": 1
+        },
+        {
+            "source": "oats",
+            "target": "seafood",
+            "value": 1
+        }
+    ]
+}

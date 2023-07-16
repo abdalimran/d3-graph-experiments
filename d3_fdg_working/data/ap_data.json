@@ -1,0 +1,651 @@
+{
+    "nodes": [
+        {
+            "id": "tapioca",
+            "name": "tapioca",
+            "group": 1
+        },
+        {
+            "id": "watermelon",
+            "name": "watermelon",
+            "group": 1
+        },
+        {
+            "id": "apple",
+            "name": "apple",
+            "group": 1
+        },
+        {
+            "id": "lotus",
+            "name": "lotus",
+            "group": 1
+        },
+        {
+            "id": "cinnamon",
+            "name": "cinnamon",
+            "group": 1
+        },
+        {
+            "id": "citrus",
+            "name": "citrus",
+            "group": 1
+        },
+        {
+            "id": "fruit",
+            "name": "fruit",
+            "group": 1
+        },
+        {
+            "id": "pineapple",
+            "name": "pineapple",
+            "group": 1
+        },
+        {
+            "id": "barbecue",
+            "name": "barbecue",
+            "group": 1
+        },
+        {
+            "id": "kimchi",
+            "name": "kimchi",
+            "group": 1
+        },
+        {
+            "id": "garlic",
+            "name": "garlic",
+            "group": 1
+        },
+        {
+            "id": "dry_fruit",
+            "name": "dry fruit",
+            "group": 1
+        },
+        {
+            "id": "chocolate",
+            "name": "chocolate",
+            "group": 1
+        },
+        {
+            "id": "sesame_seed",
+            "name": "sesame seed",
+            "group": 1
+        },
+        {
+            "id": "mozzarella_cheese",
+            "name": "mozzarella cheese",
+            "group": 1
+        },
+        {
+            "id": "cream",
+            "name": "cream",
+            "group": 1
+        },
+        {
+            "id": "jalapeno",
+            "name": "jalapeno",
+            "group": 1
+        },
+        {
+            "id": "popcorn",
+            "name": "popcorn",
+            "group": 1
+        },
+        {
+            "id": "beef_jerkey",
+            "name": "beef jerkey",
+            "group": 1
+        },
+        {
+            "id": "raspberry",
+            "name": "raspberry",
+            "group": 1
+        },
+        {
+            "id": "beef",
+            "name": "beef",
+            "group": 1
+        },
+        {
+            "id": "vanilla",
+            "name": "vanilla",
+            "group": 1
+        },
+        {
+            "id": "honey",
+            "name": "honey",
+            "group": 1
+        },
+        {
+            "id": "fig",
+            "name": "fig",
+            "group": 1
+        },
+        {
+            "id": "sour",
+            "name": "sour",
+            "group": 1
+        },
+        {
+            "id": "dates",
+            "name": "dates",
+            "group": 1
+        },
+        {
+            "id": "mushroom",
+            "name": "mushroom",
+            "group": 1
+        },
+        {
+            "id": "cauliflower",
+            "name": "cauliflower",
+            "group": 1
+        },
+        {
+            "id": "salted",
+            "name": "salted",
+            "group": 1
+        },
+        {
+            "id": "onion",
+            "name": "onion",
+            "group": 1
+        },
+        {
+            "id": "avocado",
+            "name": "avocado",
+            "group": 1
+        },
+        {
+            "id": "cheddar_cheese",
+            "name": "cheddar cheese",
+            "group": 1
+        },
+        {
+            "id": "vegetable",
+            "name": "vegetable",
+            "group": 1
+        },
+        {
+            "id": "roasted",
+            "name": "roasted",
+            "group": 1
+        },
+        {
+            "id": "duck_meat",
+            "name": "duck meat",
+            "group": 1
+        },
+        {
+            "id": "kumquat",
+            "name": "kumquat",
+            "group": 1
+        },
+        {
+            "id": "plum",
+            "name": "plum",
+            "group": 1
+        },
+        {
+            "id": "mulberry",
+            "name": "mulberry",
+            "group": 1
+        },
+        {
+            "id": "lemon",
+            "name": "lemon",
+            "group": 1
+        },
+        {
+            "id": "pork",
+            "name": "pork",
+            "group": 1
+        },
+        {
+            "id": "coconut",
+            "name": "coconut",
+            "group": 1
+        },
+        {
+            "id": "mango",
+            "name": "mango",
+            "group": 1
+        },
+        {
+            "id": "macadamia",
+            "name": "macadamia",
+            "group": 1
+        },
+        {
+            "id": "mint",
+            "name": "mint",
+            "group": 1
+        },
+        {
+            "id": "papaya",
+            "name": "papaya",
+            "group": 1
+        },
+        {
+            "id": "potato",
+            "name": "potato",
+            "group": 1
+        },
+        {
+            "id": "carrot",
+            "name": "carrot",
+            "group": 1
+        },
+        {
+            "id": "rye",
+            "name": "rye",
+            "group": 1
+        },
+        {
+            "id": "mixed_berry",
+            "name": "mixed berry",
+            "group": 1
+        },
+        {
+            "id": "lemongrass",
+            "name": "lemongrass",
+            "group": 1
+        },
+        {
+            "id": "mochi",
+            "name": "mochi",
+            "group": 1
+        },
+        {
+            "id": "blueberry",
+            "name": "blueberry",
+            "group": 1
+        },
+        {
+            "id": "olive",
+            "name": "olive",
+            "group": 1
+        },
+        {
+            "id": "taro",
+            "name": "taro",
+            "group": 1
+        },
+        {
+            "id": "corn",
+            "name": "corn",
+            "group": 1
+        },
+        {
+            "id": "granola",
+            "name": "granola",
+            "group": 1
+        },
+        {
+            "id": "masala",
+            "name": "masala",
+            "group": 1
+        },
+        {
+            "id": "tortilla",
+            "name": "tortilla",
+            "group": 1
+        },
+        {
+            "id": "herbs",
+            "name": "herbs",
+            "group": 1
+        },
+        {
+            "id": "kale",
+            "name": "kale",
+            "group": 1
+        },
+        {
+            "id": "pizza",
+            "name": "pizza",
+            "group": 1
+        },
+        {
+            "id": "grapefruit",
+            "name": "grapefruit",
+            "group": 1
+        },
+        {
+            "id": "rose",
+            "name": "rose",
+            "group": 1
+        },
+        {
+            "id": "coffee",
+            "name": "coffee",
+            "group": 1
+        },
+        {
+            "id": "butter",
+            "name": "butter",
+            "group": 1
+        },
+        {
+            "id": "peach",
+            "name": "peach",
+            "group": 1
+        },
+        {
+            "id": "basil",
+            "name": "basil",
+            "group": 1
+        },
+        {
+            "id": "wasabi",
+            "name": "wasabi",
+            "group": 1
+        },
+        {
+            "id": "grape",
+            "name": "grape",
+            "group": 1
+        },
+        {
+            "id": "cabbage",
+            "name": "cabbage",
+            "group": 1
+        },
+        {
+            "id": "matcha",
+            "name": "matcha",
+            "group": 1
+        },
+        {
+            "id": "broccoli",
+            "name": "broccoli",
+            "group": 1
+        },
+        {
+            "id": "shallot",
+            "name": "shallot",
+            "group": 1
+        },
+        {
+            "id": "cheese",
+            "name": "cheese",
+            "group": 1
+        },
+        {
+            "id": "lime",
+            "name": "lime",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "garlic",
+            "target": "roasted",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "watermelon",
+            "value": 2
+        },
+        {
+            "source": "fruit",
+            "target": "raspberry",
+            "value": 4
+        },
+        {
+            "source": "salted",
+            "target": "tortilla",
+            "value": 1
+        },
+        {
+            "source": "mixed_berry",
+            "target": "sour",
+            "value": 1
+        },
+        {
+            "source": "dates",
+            "target": "dry_fruit",
+            "value": 5
+        },
+        {
+            "source": "cinnamon",
+            "target": "pizza",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "mango",
+            "value": 9
+        },
+        {
+            "source": "potato",
+            "target": "vegetable",
+            "value": 6
+        },
+        {
+            "source": "carrot",
+            "target": "vegetable",
+            "value": 3
+        },
+        {
+            "source": "coffee",
+            "target": "fruit",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "vegetable",
+            "value": 1
+        },
+        {
+            "source": "chocolate",
+            "target": "cream",
+            "value": 1
+        },
+        {
+            "source": "coffee",
+            "target": "matcha",
+            "value": 1
+        },
+        {
+            "source": "apple",
+            "target": "fruit",
+            "value": 4
+        },
+        {
+            "source": "apple",
+            "target": "cheese",
+            "value": 1
+        },
+        {
+            "source": "cheese",
+            "target": "fruit",
+            "value": 1
+        },
+        {
+            "source": "mushroom",
+            "target": "roasted",
+            "value": 1
+        },
+        {
+            "source": "mochi",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "sesame_seed",
+            "target": "taro",
+            "value": 1
+        },
+        {
+            "source": "matcha",
+            "target": "sesame_seed",
+            "value": 1
+        },
+        {
+            "source": "mochi",
+            "target": "taro",
+            "value": 1
+        },
+        {
+            "source": "matcha",
+            "target": "mochi",
+            "value": 1
+        },
+        {
+            "source": "matcha",
+            "target": "taro",
+            "value": 1
+        },
+        {
+            "source": "basil",
+            "target": "herbs",
+            "value": 1
+        },
+        {
+            "source": "onion",
+            "target": "vegetable",
+            "value": 3
+        },
+        {
+            "source": "broccoli",
+            "target": "cheddar_cheese",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "macadamia",
+            "value": 1
+        },
+        {
+            "source": "chocolate",
+            "target": "coconut",
+            "value": 1
+        },
+        {
+            "source": "chocolate",
+            "target": "granola",
+            "value": 2
+        },
+        {
+            "source": "citrus",
+            "target": "rye",
+            "value": 1
+        },
+        {
+            "source": "cinnamon",
+            "target": "masala",
+            "value": 1
+        },
+        {
+            "source": "cream",
+            "target": "shallot",
+            "value": 1
+        },
+        {
+            "source": "mushroom",
+            "target": "shallot",
+            "value": 1
+        },
+        {
+            "source": "cream",
+            "target": "mushroom",
+            "value": 1
+        },
+        {
+            "source": "chocolate",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "honey",
+            "target": "papaya",
+            "value": 1
+        },
+        {
+            "source": "dry_fruit",
+            "target": "fig",
+            "value": 1
+        },
+        {
+            "source": "olive",
+            "target": "pork",
+            "value": 1
+        },
+        {
+            "source": "rye",
+            "target": "vanilla",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "papaya",
+            "value": 1
+        },
+        {
+            "source": "kale",
+            "target": "mulberry",
+            "value": 1
+        },
+        {
+            "source": "apple",
+            "target": "sour",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "sour",
+            "value": 1
+        },
+        {
+            "source": "beef_jerkey",
+            "target": "salted",
+            "value": 1
+        },
+        {
+            "source": "chocolate",
+            "target": "pineapple",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "pineapple",
+            "value": 1
+        },
+        {
+            "source": "chocolate",
+            "target": "fruit",
+            "value": 1
+        },
+        {
+            "source": "butter",
+            "target": "garlic",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "rose",
+            "value": 1
+        },
+        {
+            "source": "pineapple",
+            "target": "pizza",
+            "value": 1
+        },
+        {
+            "source": "fruit",
+            "target": "grapefruit",
+            "value": 1
+        },
+        {
+            "source": "cheese",
+            "target": "garlic",
+            "value": 1
+        },
+        {
+            "source": "chocolate",
+            "target": "vanilla",
+            "value": 1
+        }
+    ]
+}
